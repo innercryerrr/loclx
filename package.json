@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "loclx-arm": "./bin/arm64",
-    "loclx-arch": "./bin/arch64"
+    "loclx-arm": "./bin/lolcx-arm",
+    "loclx": "./bin/lolcx"
   },
   "author": "",
   "license": "ISC"
