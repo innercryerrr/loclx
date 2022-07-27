@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "greet": "./bin/index"
+    "loclx": "./bin/index"
   },
   "author": "",
   "license": "ISC"
