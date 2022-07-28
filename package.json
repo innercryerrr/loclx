@@ -2,12 +2,11 @@
   "name": "loclx",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "up": "git add . && git commit -m up && git push origin main"
   },
   "bin": {
-    "loclx": "./bin/amd64"
+    "loclx": "./bin/index"
   },
   "author": "",
   "license": "ISC"
