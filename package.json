@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "scripts": {
+    "up": "git add . && git commit -m up && git push origin main"
+  },
   "bin": {
-    "loclx": "./bin/index"
+    "loclx": "./bin/amd64"
   },
   "author": "",
   "license": "ISC"
