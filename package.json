@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "localXpose npm wrapper.",
   "bin": {
-    "loclx": "./bin/index"
+    "loclx": "./bin/loclx-darwin-amd64"
   },
   "author": "innercryerrr",
   "license": "ISC"
