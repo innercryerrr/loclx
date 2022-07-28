@@ -1,6 +1,6 @@
 {
   "name": "loclx",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "localXpose npm wrapper.",
   "bin": {
     "loclx": "./bin/loclx-darwin-amd64"
