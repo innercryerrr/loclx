@@ -1,13 +1,10 @@
 {
   "name": "loclx",
   "version": "1.0.0",
-  "description": "",
-  "scripts": {
-    "up": "git add . && git commit -m up && git push origin main"
-  },
+  "description": "localXpose npm wrapper.",
   "bin": {
     "loclx": "./bin/index"
   },
-  "author": "",
+  "author": "innercryerrr",
   "license": "ISC"
 }
