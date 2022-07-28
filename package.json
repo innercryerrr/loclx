@@ -7,16 +7,7 @@
     "up": "git add . && git commit -m up && git push origin main"
   },
   "bin": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "loclx-arm": "./bin/lolcx-arm",
-    "loclx": "./bin/lolcx"
-=======
     "loclx": "./bin/amd64"
->>>>>>> 961a78f (up)
-=======
-    "loclx": "./bin/amd64"
->>>>>>> main
   },
   "author": "",
   "license": "ISC"
