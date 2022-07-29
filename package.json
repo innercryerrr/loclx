@@ -3,7 +3,10 @@
   "version": "1.0.3",
   "description": "localXpose npm wrapper.",
   "bin": {
-    "loclx": "./bin/loclx-darwin-amd64"
+    "loclx": "./bin/loclx"
+  },
+  "scripts": {
+    "up": "git add . && git commit -m upgo && git push origin main"
   },
   "author": "innercryerrr",
   "license": "ISC"
